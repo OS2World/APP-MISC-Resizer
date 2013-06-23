@@ -1,0 +1,27 @@
+By Darrell Spice Jr                                          September 16, 2000
+
+Many thanks to Brad Barclay for all his help!
+
+usage: resizer [<window title> [<multiplier>]]
+
+Resizer is a very short program who's purpose is to change the size of other
+program windows.  The need for this program came about when I started using
+the SciTech Display Drivers to push my 19" monitor to 2048x1536.  I like to
+play Entrepreneur, and it's normal window size was suddenly way to small.
+Maximizing the window works, but there's way to many pixels to push when
+running maximized on a 2048x1536 display.  Entrepreneur does not allow you
+to arbitrarily resize it's window, so it would only show a 640x480 window
+or a maximized window.
+
+You can run Resizer from an OS/2 command prompt, or by setting up shadows
+with the parameters already set up for the different windows you wish to
+resize.  I currently have two shadows set up, one for doubling Entrepreneur
+and one for doubling Hopkins FBI.
+
+There are two parameters for resizer, window title and multiplier.  They
+default to "Entrepreneur" and "2" if not passed.  The window title parameter
+will match any title that starts with the same value, so "Hopkins" will match
+the real window title of "Hopkins: FBI v1.0 for OS/2 Warp"
+
+http://home.houston.rr.com/spiceware/
+
